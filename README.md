@@ -1,4 +1,4 @@
-# Trend application
+# Ttrend application
 
 This is a small applicaiton which is contains main and test folders.  
 Main contains application code.  
